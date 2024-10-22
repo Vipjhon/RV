@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTrafic_Management_Sy", "WTrafic_Management_Sy\WTrafic_Management_Sy.csproj", "{4518D01E-ECE3-4798-A345-97D2E5949BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4518D01E-ECE3-4798-A345-97D2E5949BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4518D01E-ECE3-4798-A345-97D2E5949BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4518D01E-ECE3-4798-A345-97D2E5949BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4518D01E-ECE3-4798-A345-97D2E5949BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB59801-2067-42A6-A972-FC6DD52F93BB}
+	EndGlobalSection
+EndGlobal

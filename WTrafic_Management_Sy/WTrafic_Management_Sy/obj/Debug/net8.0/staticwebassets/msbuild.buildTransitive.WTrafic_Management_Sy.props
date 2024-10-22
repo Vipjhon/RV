@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WTrafic_Management_Sy.props" />
+</Project>

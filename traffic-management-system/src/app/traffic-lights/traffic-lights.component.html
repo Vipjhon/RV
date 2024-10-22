@@ -1,0 +1,7 @@
+<div class="traffic-light">
+    <div [class.red]="currentLight === 'red'"></div>
+    <div [class.yellow]="currentLight === 'yellow'"></div>
+    <div [class.green]="currentLight === 'green'"></div>
+  </div>
+  <button (click)="changeLight()">Change Light</button>
+  

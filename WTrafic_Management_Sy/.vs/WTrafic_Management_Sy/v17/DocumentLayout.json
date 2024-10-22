@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\data\\trafficmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\data\\trafficmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\models\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\wtrafic_management_sy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\wtrafic_management_sy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\controllers\\incidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\controllers\\incidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\controllers\\trafficlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\controllers\\trafficlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\models\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\models\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|c:\\users\\pcc\\source\\repos\\wtrafic_management_sy\\wtrafic_management_sy\\migrations\\20241022104505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4518D01E-ECE3-4798-A345-97D2E5949BBB}|WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj|solutionrelative:wtrafic_management_sy\\migrations\\20241022104505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241022104505_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022104505_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022104505_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022104505_InitialCreate.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022104505_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:45:05.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241022101936_IdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022101936_IdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:19:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\appsettings.json",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\appsettings.json",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\appsettings.json",
+              "RelativeToolTip": "WTrafic_Management_Sy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T06:41:33.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafficManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Data\\TrafficManagementContext.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Data\\TrafficManagementContext.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Data\\TrafficManagementContext.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Data\\TrafficManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:40:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241022103612_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022103612_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:36:13.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Program.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Program.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Program.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:46:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241022101857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022101857_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:18:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:06:15.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\Incident.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Models\\Incident.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\Incident.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Models\\Incident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:39:32.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241022093831_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022093831_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:38:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WTrafic_Management_Sy.csproj",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj",
+              "RelativeToolTip": "WTrafic_Management_Sy\\WTrafic_Management_Sy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T09:16:10.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241022064831_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Migrations\\20241022064831_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:48:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrafficLightController.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Controllers\\TrafficLightController.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Controllers\\TrafficLightController.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Controllers\\TrafficLightController.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Controllers\\TrafficLightController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:43:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IncidentController.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Controllers\\IncidentController.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Controllers\\IncidentController.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Controllers\\IncidentController.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Controllers\\IncidentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:45:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrafficLight.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "WTrafic_Management_Sy\\Models\\TrafficLight.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\WTrafic_Management_Sy\\WTrafic_Management_Sy\\Models\\TrafficLight.cs",
+              "RelativeToolTip": "WTrafic_Management_Sy\\Models\\TrafficLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:38:40.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

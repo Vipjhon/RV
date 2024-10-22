@@ -1,0 +1,6 @@
+@WTrafic_Management_Sy_HostAddress = http://localhost:5177
+
+GET {{WTrafic_Management_Sy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
